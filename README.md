@@ -5,7 +5,7 @@
 # About
 
 ShiftIt is an application for OSX that allows you to quickly manipulate window position and size using keyboard shortcuts. It intends to become a full featured window organizer for OSX.
-It is a complete rewrite of the original [ShiftIt][1] by [Aravindkumar Rajendiran][2] which is not longer under development. For discussing any sort of stuff about this app, please create a new issue [right here][3].
+It is a complete rewrite of the original [ShiftIt][1] by [Aravindkumar Rajendiran][2] which is no longer under development. For discussing any sort of stuff about this app, please create a new issue [right here][3].
 
 License: [GNU General Public License v3][5]
 
@@ -19,7 +19,7 @@ This build includes support for X11 which might be problematic in 10.8, a fix is
 
 ## User guide
 
-ShiftIt installs itself in the menu bar (optionally it can be completely hidden). It provides a set of actions that manipulates windows positions and sizes. Following is an example of list of actions available:
+ShiftIt installs itself in the menu bar (optionally it can be completely hidden). It provides a set of actions that manipulate windows positions and sizes. Following is an example of list of actions available:
 
 ![Screenshot Menu](https://raw.github.com/fikovnik/ShiftIt/develop/docs/schreenshot-menu.png)
 
